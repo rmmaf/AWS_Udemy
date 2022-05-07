@@ -1,1 +1,1 @@
-source course-env/bin/activate
+source ./course-env/bin/activate
