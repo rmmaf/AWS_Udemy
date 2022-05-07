@@ -1,0 +1,1 @@
+source course-env/bin/activate
